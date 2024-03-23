@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\Apple.png" />
+    <None Remove="Assets\Banana.png" />
+    <None Remove="Assets\Body.png" />
+    <None Remove="Assets\DeadBody.png" />
+    <None Remove="Assets\DeadHead.png" />
+    <None Remove="Assets\DroidSansMono.ttf" />
+    <None Remove="Assets\Empty.png" />
+    <None Remove="Assets\Head.png" />
+    <None Remove="Assets\icon.ico" />
+    <None Remove="Assets\MenuLogo.png" />
+    <None Remove="Assets\Watermelon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Apple.png" />
+    <Resource Include="Assets\Banana.png" />
+    <Resource Include="Assets\Body.png" />
+    <Resource Include="Assets\DeadBody.png" />
+    <Resource Include="Assets\DeadHead.png" />
+    <Resource Include="Assets\DroidSansMono.ttf" />
+    <Resource Include="Assets\Empty.png" />
+    <Resource Include="Assets\Head.png" />
+    <Resource Include="Assets\icon.ico" />
+    <Resource Include="Assets\MenuLogo.png" />
+    <Resource Include="Assets\Watermelon.png" />
+  </ItemGroup>
+
+</Project>

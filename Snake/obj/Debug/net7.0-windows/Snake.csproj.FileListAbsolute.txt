@@ -1,0 +1,111 @@
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\obj\Debug\net7.0-windows\Snake.csproj.AssemblyReference.cache
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\obj\Debug\net7.0-windows\Snake_MarkupCompile.cache
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\obj\Debug\net7.0-windows\Snake_MarkupCompile.lref
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\bin\Debug\net7.0-windows\Snake.exe
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\bin\Debug\net7.0-windows\Snake.deps.json
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\bin\Debug\net7.0-windows\Snake.runtimeconfig.json
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\bin\Debug\net7.0-windows\Snake.dll
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\bin\Debug\net7.0-windows\Snake.pdb
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\obj\Debug\net7.0-windows\App.baml
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\obj\Debug\net7.0-windows\Snake.g.resources
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\obj\Debug\net7.0-windows\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\obj\Debug\net7.0-windows\Snake.AssemblyInfoInputs.cache
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\obj\Debug\net7.0-windows\Snake.AssemblyInfo.cs
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\obj\Debug\net7.0-windows\Snake.csproj.CoreCompileInputs.cache
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\obj\Debug\net7.0-windows\Snake.dll
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\obj\Debug\net7.0-windows\refint\Snake.dll
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\obj\Debug\net7.0-windows\Snake.pdb
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\obj\Debug\net7.0-windows\Snake.genruntimeconfig.cache
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\obj\Debug\net7.0-windows\ref\Snake.dll
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\obj\Debug\net7.0-windows\Menu.g.cs
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\obj\Debug\net7.0-windows\Menu.baml
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\obj\Debug\net7.0-windows\ScoreMenu.g.cs
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\obj\Debug\net7.0-windows\ScoreMenu.baml
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\obj\Debug\net7.0-windows\GameInfo.g.cs
+C:\Users\wowpo\source\repos\Прога.Осень2022\Snake\Snake\obj\Debug\net7.0-windows\GameInfo.baml
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\bin\Debug\net7.0-windows\Snake.exe
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\bin\Debug\net7.0-windows\Snake.deps.json
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\bin\Debug\net7.0-windows\Snake.runtimeconfig.json
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\bin\Debug\net7.0-windows\Snake.dll
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\bin\Debug\net7.0-windows\Snake.pdb
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\obj\Debug\net7.0-windows\Snake.csproj.AssemblyReference.cache
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\obj\Debug\net7.0-windows\GameInfo.g.cs
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\obj\Debug\net7.0-windows\Menu.g.cs
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\obj\Debug\net7.0-windows\ScoreMenu.g.cs
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\obj\Debug\net7.0-windows\Snake_MarkupCompile.cache
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\obj\Debug\net7.0-windows\Snake_MarkupCompile.lref
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\obj\Debug\net7.0-windows\App.baml
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\obj\Debug\net7.0-windows\GameInfo.baml
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\obj\Debug\net7.0-windows\Menu.baml
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\obj\Debug\net7.0-windows\ScoreMenu.baml
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\obj\Debug\net7.0-windows\Snake.g.resources
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\obj\Debug\net7.0-windows\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\obj\Debug\net7.0-windows\Snake.AssemblyInfoInputs.cache
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\obj\Debug\net7.0-windows\Snake.AssemblyInfo.cs
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\obj\Debug\net7.0-windows\Snake.csproj.CoreCompileInputs.cache
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\obj\Debug\net7.0-windows\Snake.dll
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\obj\Debug\net7.0-windows\refint\Snake.dll
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\obj\Debug\net7.0-windows\Snake.pdb
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\obj\Debug\net7.0-windows\Snake.genruntimeconfig.cache
+C:\Users\wowpo\source\repos\Прога.Осень2022\Курсовая работа\Snake\Snake\obj\Debug\net7.0-windows\ref\Snake.dll
+C:\Users\Georgiy\source\repos\Snake\Snake\bin\Debug\net7.0-windows\Snake.exe
+C:\Users\Georgiy\source\repos\Snake\Snake\bin\Debug\net7.0-windows\Snake.deps.json
+C:\Users\Georgiy\source\repos\Snake\Snake\bin\Debug\net7.0-windows\Snake.runtimeconfig.json
+C:\Users\Georgiy\source\repos\Snake\Snake\bin\Debug\net7.0-windows\Snake.dll
+C:\Users\Georgiy\source\repos\Snake\Snake\bin\Debug\net7.0-windows\Snake.pdb
+C:\Users\Georgiy\source\repos\Snake\Snake\obj\Debug\net7.0-windows\Snake.csproj.AssemblyReference.cache
+C:\Users\Georgiy\source\repos\Snake\Snake\obj\Debug\net7.0-windows\GameInfo.g.cs
+C:\Users\Georgiy\source\repos\Snake\Snake\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Georgiy\source\repos\Snake\Snake\obj\Debug\net7.0-windows\Menu.g.cs
+C:\Users\Georgiy\source\repos\Snake\Snake\obj\Debug\net7.0-windows\ScoreMenu.g.cs
+C:\Users\Georgiy\source\repos\Snake\Snake\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Georgiy\source\repos\Snake\Snake\obj\Debug\net7.0-windows\Snake_MarkupCompile.cache
+C:\Users\Georgiy\source\repos\Snake\Snake\obj\Debug\net7.0-windows\Snake_MarkupCompile.lref
+C:\Users\Georgiy\source\repos\Snake\Snake\obj\Debug\net7.0-windows\App.baml
+C:\Users\Georgiy\source\repos\Snake\Snake\obj\Debug\net7.0-windows\GameInfo.baml
+C:\Users\Georgiy\source\repos\Snake\Snake\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Georgiy\source\repos\Snake\Snake\obj\Debug\net7.0-windows\Menu.baml
+C:\Users\Georgiy\source\repos\Snake\Snake\obj\Debug\net7.0-windows\ScoreMenu.baml
+C:\Users\Georgiy\source\repos\Snake\Snake\obj\Debug\net7.0-windows\Snake.g.resources
+C:\Users\Georgiy\source\repos\Snake\Snake\obj\Debug\net7.0-windows\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgiy\source\repos\Snake\Snake\obj\Debug\net7.0-windows\Snake.AssemblyInfoInputs.cache
+C:\Users\Georgiy\source\repos\Snake\Snake\obj\Debug\net7.0-windows\Snake.AssemblyInfo.cs
+C:\Users\Georgiy\source\repos\Snake\Snake\obj\Debug\net7.0-windows\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Georgiy\source\repos\Snake\Snake\obj\Debug\net7.0-windows\Snake.dll
+C:\Users\Georgiy\source\repos\Snake\Snake\obj\Debug\net7.0-windows\refint\Snake.dll
+C:\Users\Georgiy\source\repos\Snake\Snake\obj\Debug\net7.0-windows\Snake.pdb
+C:\Users\Georgiy\source\repos\Snake\Snake\obj\Debug\net7.0-windows\Snake.genruntimeconfig.cache
+C:\Users\Georgiy\source\repos\Snake\Snake\obj\Debug\net7.0-windows\ref\Snake.dll
+C:\dev\Csharp\University\Courseworks\Snake\Snake\bin\Debug\net7.0-windows\Snake.exe
+C:\dev\Csharp\University\Courseworks\Snake\Snake\bin\Debug\net7.0-windows\Snake.deps.json
+C:\dev\Csharp\University\Courseworks\Snake\Snake\bin\Debug\net7.0-windows\Snake.runtimeconfig.json
+C:\dev\Csharp\University\Courseworks\Snake\Snake\bin\Debug\net7.0-windows\Snake.dll
+C:\dev\Csharp\University\Courseworks\Snake\Snake\bin\Debug\net7.0-windows\Snake.pdb
+C:\dev\Csharp\University\Courseworks\Snake\Snake\obj\Debug\net7.0-windows\GameInfo.g.cs
+C:\dev\Csharp\University\Courseworks\Snake\Snake\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\dev\Csharp\University\Courseworks\Snake\Snake\obj\Debug\net7.0-windows\Menu.g.cs
+C:\dev\Csharp\University\Courseworks\Snake\Snake\obj\Debug\net7.0-windows\ScoreMenu.g.cs
+C:\dev\Csharp\University\Courseworks\Snake\Snake\obj\Debug\net7.0-windows\App.g.cs
+C:\dev\Csharp\University\Courseworks\Snake\Snake\obj\Debug\net7.0-windows\Snake_MarkupCompile.cache
+C:\dev\Csharp\University\Courseworks\Snake\Snake\obj\Debug\net7.0-windows\Snake_MarkupCompile.lref
+C:\dev\Csharp\University\Courseworks\Snake\Snake\obj\Debug\net7.0-windows\App.baml
+C:\dev\Csharp\University\Courseworks\Snake\Snake\obj\Debug\net7.0-windows\GameInfo.baml
+C:\dev\Csharp\University\Courseworks\Snake\Snake\obj\Debug\net7.0-windows\MainWindow.baml
+C:\dev\Csharp\University\Courseworks\Snake\Snake\obj\Debug\net7.0-windows\Menu.baml
+C:\dev\Csharp\University\Courseworks\Snake\Snake\obj\Debug\net7.0-windows\ScoreMenu.baml
+C:\dev\Csharp\University\Courseworks\Snake\Snake\obj\Debug\net7.0-windows\Snake.g.resources
+C:\dev\Csharp\University\Courseworks\Snake\Snake\obj\Debug\net7.0-windows\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Csharp\University\Courseworks\Snake\Snake\obj\Debug\net7.0-windows\Snake.AssemblyInfoInputs.cache
+C:\dev\Csharp\University\Courseworks\Snake\Snake\obj\Debug\net7.0-windows\Snake.AssemblyInfo.cs
+C:\dev\Csharp\University\Courseworks\Snake\Snake\obj\Debug\net7.0-windows\Snake.csproj.CoreCompileInputs.cache
+C:\dev\Csharp\University\Courseworks\Snake\Snake\obj\Debug\net7.0-windows\Snake.dll
+C:\dev\Csharp\University\Courseworks\Snake\Snake\obj\Debug\net7.0-windows\refint\Snake.dll
+C:\dev\Csharp\University\Courseworks\Snake\Snake\obj\Debug\net7.0-windows\Snake.pdb
+C:\dev\Csharp\University\Courseworks\Snake\Snake\obj\Debug\net7.0-windows\Snake.genruntimeconfig.cache
+C:\dev\Csharp\University\Courseworks\Snake\Snake\obj\Debug\net7.0-windows\ref\Snake.dll

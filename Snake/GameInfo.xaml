@@ -1,0 +1,33 @@
+﻿<Window x:Class="Snake.GameInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Snake"
+        mc:Ignorable="d"
+        Title="Snake" Height="500" Width="800"
+        MinWidth="300" MinHeight="300"
+        Background="{StaticResource MenuBackgroundColor}"
+        Foreground="{StaticResource TextColor}"
+        FontFamily="{StaticResource MainFont}"
+        WindowStartupLocation="CenterScreen"
+        Icon="Assets/icon.ico"
+        Closing="Window_Closing" WindowStyle="ThreeDBorderWindow">
+    <Viewbox>
+        <Grid>
+            <Button Content="НАЗАД В МЕНЮ" HorizontalAlignment="Center" VerticalAlignment="Center" Height="95" Width="283" Click="Button_Back_Click" FontSize="36" Margin="0,763,0,10"
+                    BorderThickness="5"
+                    BorderBrush="{StaticResource GridLineColor}"/>
+            <TextBlock x:Name="RulesTitle" Text="ПРАВИЛА ИГРЫ" FontSize="58" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,16,0,0" Background="Transparent" TextWrapping="Wrap" Foreground="Black"></TextBlock>
+            <TextBox x:Name="Rules" Text="Цель игры 'Змейка' заключается в сборе фруктов.
+                     Разные фрукты дают разное количество очков: яблоко - 1 очко, банан - 2 очка, арбуз - 3 очка.
+                     После окончания игры набранные очки записываются в таблицу рекордов, которую можно посмотреть из меню.
+                     Игровое поле представлено равным количеством строк и столбцов, состоящих из ячеек (всего 225), в которых появляются фрукты и передвигается змейка.
+                     При столкновении с границей поля или своим хвостом змейка погибает.
+                                 Цель игры выбирается пользователем при её настройке.
+                                Управление осуществляется при помощи клавиш w - для движения вверх, a - влево, s - вниз, d - вправо или стрелочек на клавиатуре, соответствующим своим направлениям."
+   HorizontalAlignment="Center" VerticalAlignment="Top" Height="533" TextWrapping="Wrap"
+                     Width="908" FontSize="28" Margin="0,103,0,0" Background="Transparent" Foreground="Black" BorderBrush="{StaticResource GridLineColor}" BorderThickness="5" IsReadOnly="true"></TextBox>
+        </Grid>
+    </Viewbox>
+</Window>
